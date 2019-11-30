@@ -17,7 +17,6 @@ Some examples of potential candidates for circular trade networks identified by 
 ![](https://raw.githubusercontent.com/ninadakolekar/fraud-detection/master/example_img1.png)
 ![](https://raw.githubusercontent.com/ninadakolekar/fraud-detection/master/example_img2.png)
 ![](https://raw.githubusercontent.com/ninadakolekar/fraud-detection/master/example_img3.png)
-![](https://raw.githubusercontent.com/ninadakolekar/fraud-detection/master/example_img4.png)
 
 # Contributors
 Ninad Akolekar
